@@ -34,7 +34,7 @@
 
 #include <sys/types.h>
 #include <sys/param.h>
-#include <sys/dkstat.h>
+#include <sys/sched.h>
 #include <sys/mount.h>
 #include <sys/proc.h>
 #include <sys/swap.h>
